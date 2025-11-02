@@ -1,2 +1,11 @@
-# Switch-cases
-How to use switch case in loop in programming to make code easier
+# C Programs - Loop and Switch Case
+
+This repository contains basic C programs using:
+- Loops (for, while, do-while)
+- Switch case
+
+
+
+## How to Run
+Use GCC compiler:
+
